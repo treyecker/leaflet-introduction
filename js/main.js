@@ -1,5 +1,5 @@
 
-let map = L.map('map2').setView([38.793211, -95.831676], 3.56);
+let map = L.map('map2').setView([38.793211, -95.831676], 3.26);
 
 L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
